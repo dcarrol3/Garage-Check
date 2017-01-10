@@ -1,0 +1,15 @@
+{
+  "name": "garagelambda",
+  "version": "1.0.0",
+  "description": "garage door status",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.7.19",
+    "claudia-api-builder": "^2.3.1"
+  }
+}
