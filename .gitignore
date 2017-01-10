@@ -1,0 +1,26 @@
+# Android
+*.png
+*.jpeg
+*.jpg
+AndroidApp/GarageCheck/build/
+AndroidApp/GarageCheck/bin/
+AndroidApp/GarageCheck/out/
+AndroidApp/GarageCheck/gen/
+AndroidApp/GarageCheck/gradle/
+AndroidApp/GarageCheck/.gradle/
+AndroidApp/GarageCheck/gradle/
+AndroidApp/GarageCheck/.idea/
+AndroidApp/GarageCheck/.externalNativeBuild
+*.apk
+*.ap_
+*.iml
+*.jks
+AndroidApp/GarageCheck/app/src/main/java/home/garagecheck/Link.java
+
+# Lambda
+GarageLambda/node_modules/
+GarageLambda/claudia.json
+
+# C
+RaspberryPi/link.h
+RaspberryPi/.idea/
